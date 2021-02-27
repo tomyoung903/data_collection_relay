@@ -1,0 +1,4 @@
+user: I am planning a staycation with my family .
+system: Where will you be staying ?
+user: I am planning a dinner event for my company .
+system: Do you have a restaurant in mind ?
