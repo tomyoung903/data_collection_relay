@@ -1,0 +1,4 @@
+user: i feel like i am losing my mind !
+system: would drinkig a coke and having a warm home made cookie help?
+user: No, I don't think Coke would help me right now, I probably should see a doctor.
+system: what is the thing that is making you loose  your mind?  Right now i am baking and it is relaxing to me...
