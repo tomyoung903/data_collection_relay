@@ -1,0 +1,16 @@
+user: I need a train that goes to Cambridge by 9:45
+system: May I know  which day and where will you be leaving from?
+user: I will be leaving from London Liverpool Street on a Tuesday
+system: Great! I have a train for you. You will reach Cambridge on Tuesday by 09:07. Shall I book it for you?
+user: No. Just give me the departure time.
+system: The departure time is 07:39. Is there anything else I can assit you with?
+user: Can you reccomend me places to visit while I am there?
+system: Sure. What kind of places would you be interested to visit?
+user: Oh, I love museums. Any recommendations?
+system: There are 23 museums in the city. If you have no prefered area, Cafe Jello Gallery on the west side is a good pick. It also have no entrance fee.
+user: Sounds good. What is the address?
+system: Cafe Jello Gallery, 13 Magdalene Street. Is there anything else I can assist you with?
+user: What is their phone number?
+system: Their phone number is 01223312112. Can I help with anything else?
+user: That will be all. Thank you.
+system: Thank you and have a good day!
