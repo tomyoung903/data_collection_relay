@@ -1,0 +1,20 @@
+user: I was planning a trip to Cambridge with Tomm that day and we have decided to go on a one-week holiday on Sunday.
+system: That's good to hear! Where will you guys be departing from?
+user: We are planning to use the train as our transport and will be departing from Leicester.
+system: I will have several trains that will be able to send you to Cambridge, and the earliest timing will be 5:09, departing from Leicester.
+user: I am looking to leave after 15:30 on Sunday.
+system: In that case, we have one train that will leave at 16:09, do you need help with the booking of tickets?
+user: Yeap, i would like to book 8 tickets.
+system: Okay. Your booking was successful. Your total fee is 241.92 GBP which can be paid at the station. The reference number is KZ0FFG5R.
+user: Thank you so much! I am afraid that we will be bored when we are in  town, in the south since we don't know much attractions there.
+system: Do you have any specific attractions that you are interested in?
+user: I am looking to visit some colleges if possible!
+system: I am sorry there seem to be no colleges in the south to visit. However, you can visit Byard Art, which is a fantastic museum to visit. Do you need more information regarding that?
+user: Thank you so much! I will check it out later on my own but Tom think that it will be great to have a picnic in the park!
+system: There are two parks that are great for picnics, Sheep's Green and Lammas Land Park and Wandlebury Country Park. Do you have a preference?
+user: Lammas Land Park sounds good. Can I know more information details about this park?
+system: The post code is cb22ad, phone number 01223302580. You do not have to worry about the entrance fee as well as it will be completely free!
+user: Thank you so much for your time and services!
+system: Is there anything else I may help you with?
+user: That would be all! Thank you!
+system: You are welcome and have a nice day ahead.
