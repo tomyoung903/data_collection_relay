@@ -1,0 +1,26 @@
+user: Hey, I have to attend a family function!
+system: I am happy to hear that, it is good to prioritize your family and spend quality time with them.
+user: But the function is not here.
+system: I see, so where do you have to go in order to attend it?
+user: My cousin sister is getting married in Cambridge.
+system: That's a wonderful news, Congratulations to your family! I found something for you!
+user: Great! Tell me more about it!
+system: Does a train fit in your plan?
+user: Okay, but I hope it is not too expensive
+system: Don't worry I think it should be in budget
+user: Yeah, fits in my budget
+system: Great, you have a house there?
+user: No, I do not live there
+system: Ok, I will book it for you.
+user: Thanks. By the way I am not travelling solo
+system: Oh so you have company
+user: Yes, and they also require a hotel reservation
+system: May I know the number of people?
+user: yeah, it just me and my wife.
+system: Are you returning on the same day?
+user: No, staying there for a while
+system: Ok, so I will make a reservation accordingly
+user: Cool
+system: Your reservation has been made.
+user: my itinerary is sorted now!  
+system: yes!
