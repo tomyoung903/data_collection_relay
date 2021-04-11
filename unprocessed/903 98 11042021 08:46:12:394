@@ -1,0 +1,36 @@
+user: Hey, I have to attend a family function!
+system: I am happy to hear that, it is good to prioritize your family and spend quality time with them.
+user: But the function is not here.
+system: I see, so where do you have to go in order to attend it?
+user: My cousin sister is getting married in Cambridge.
+system: That's a wonderful news, Congratulations to your family! I found something for you!
+user: Great! Tell me more about it!
+system: You will be travelling by train. Its Identity number is TR5225.
+user: Okay, but I hope it is not too expensive
+system: Don't worry I think it should be in budget
+user: Cool, what am I being charged for it?
+system: It costs 14.08 for a one-way journey. Is that okay?
+user: Yeah, fits in my budget
+system: Great, so where will you be staying?
+user: Don't know 
+system: Okay, I can look for something. 
+user: Yeah go ahead
+system: But it does not have free WIFI
+user: Not a problem for me, I use mobile data normally
+system: Ok, I will book it for you.
+user: Thanks. By the way I am not travelling solo
+system: Oh so you have company
+user: Yes, and they also require a hotel reservation
+system: May I know the number of people?
+user: yeah, it just me and my wife.
+system: Ok, how long will the function last?
+user: Shouldn't be too long
+system: Ok, so I will make a reservation for 3 days, sounds fine?
+user: Yeah, book it from next Tuesday
+system: Morning?
+user: No, I will be arriving a little late 
+system: Okay, your reservation has been made.
+user: Thanks
+system: My pleasure. 
+user: That's it
+system: I had a great time talking to you, Bye!
