@@ -1,0 +1,6 @@
+user: Can you help me look for a dog-sitter then. 
+system: There are many listings on craigslist, would you like to see them?
+user: Is there a rating system for them?
+system: Yes, there is. 
+user: Can you give me a list of those rated 3 stars and above.
+system: No problem, here is the list.
