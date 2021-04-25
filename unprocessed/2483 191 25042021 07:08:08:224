@@ -1,6 +1,0 @@
-user: Will the service be able to handle 6 guest?
-system: One car can drive up to 4 guest, you will require 2 cars, at $400 a day. Would you like me to order it for you?
-user: Are there alternatives services to have all 6 guest in one car?
-system: You could use UBER, however there is no pre booking option. You would have to call for it when you need to travel.
-user: I see. Order the hotel chauffeur service for me then.
-system: I was booked 2 cars for $400 a day, registration plates are SBA 1234A, SBA 4567A. They will be waiting for you at the taxi service entrance of the hotel. 
