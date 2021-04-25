@@ -1,0 +1,8 @@
+user: Is Travellers Rest crowded now?
+system: Travellers Rest restaurant is not very crowded currently. And you have the booking, so you don't need to queue for long.
+user: That would be great. How about the weather near the restaurant?
+system: The weather forecast near Travellers Rest shows large probability of raining, so you may wish to bring along an umbrella.
+user: Ok, but I don't have one with me. Is there any store to buy an umbrella?
+system: Yes there is. You may go to the 724 store at 123, East Lane. That is only 100 metres from you.
+user: Thanks for the help.
+system: No problem.
