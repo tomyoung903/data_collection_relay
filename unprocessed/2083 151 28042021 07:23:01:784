@@ -1,0 +1,22 @@
+user: It's been quite a long week, hasn't it?
+system: Oh, I would never know. For me, the length of a week is determined by the number of seconds in a week. 
+user: Of course, it hasn't been a long week for you. I was saying it was quite a long week for me.
+system: Would you like to take a break? I have some excellent relaxing spa recommendations.
+user: Spas? Hmm, that sounds interesting! Maybe I might want to go for a retreat. 
+system: Really want to "treat" yourself this time don't you?
+user: Hahaha. That was a good one. But yeah a retreat does sound pretty nice. Spa's are overpriced anyway.
+system: Well, according to my database it costs more to go for a retreat than for a relaxing spa. Unless you want to take a break for a few days, in that case, a retreat/hotel would make sense.
+user: Tell me, are there any holiday's coming up next week?
+system: Next week Monday is Labour Day.
+user: That's great news. That means I can really take my time off and unwind before the week begins over again.
+system: Quoting Banksy "If you get tired, learn to rest, not to quit"
+user: Is this the same Banksy who had his art piece shredded at an auction?
+system: Yes, he is quite an eclectic persona. 
+user: Well, I'm not planning on quitting. I just need some time away from the hustle and bustle of the city. 
+system: That's the spirit. Tell me the specifics and I'll see what I can do
+user: Hey, wait! Just out of curiosity, how many seconds are there in one week?
+system: 604800 seconds
+user: Damn that's a lot of time.
+system: And that time is very precious. Is there anything else I can help  you with?
+user: Nah, you have been quite the help. Thanks again!
+system: No problem! Have a great retreat ahead!
