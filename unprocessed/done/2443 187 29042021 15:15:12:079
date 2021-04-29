@@ -1,0 +1,8 @@
+user: Can you help me find a cinema around here? 
+system: Yes for sure. How about GSC cinema? What movie and which day do you want to watch?
+user: That is great! I am looking for "King Kong vs Godzilla" on Monday night and the reservation to be for 4 people. . Can you help me to find is it have an available time for it?
+system: How about 7.30pm for 4 people?
+user: Sure! 
+system: Your booking was successful. Your reference number is : AHVSJ7PL.
+user: Thanks a lot! Goodbye.
+system: No worries. You have a great day. Goodbye.
