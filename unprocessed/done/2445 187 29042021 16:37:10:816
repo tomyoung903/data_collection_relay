@@ -1,0 +1,14 @@
+user: I realized that I still need to find a place for fine dining with my girlfriend over the weekend, can you find a list of places of recommendations in Singapore?
+system: Yes, please hold on a minute for us to retrieve data from the database...
+user: Okay. Take your time.
+system: We have the following recommendations:
+1. Odette - Central area;
+2. Alma by Juan - West;
+3. Rang Mahal - Pasir Ris
+4. ABC Restaurant - Northeast
+...
+user: I would like to go to Rang Mahal, how should I travel there from my current location?
+system: You can take bus 184 at Bus Stop 22456, and alight after 7 stops at Bus Stop 55274. Alternatively, you can walk 5 minutes to Bedok North and take Downtown Line towards Changi Airport, alight at Tampines Interchange and take the East-West Line towards Pasir Ris.
+user: Okay. Thanks!
+
+system: You're welcomed. Have a nice day!
