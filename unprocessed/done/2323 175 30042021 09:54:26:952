@@ -1,0 +1,4 @@
+user: Sorry to tell you that I need to cancel the booking now. What is the cancellation policy?
+system: Cancellation must be done 24 hours before exact date. If not, the charges could be incurred.
+user: I see. So, what should I do if I wish to cancel? 
+system: By email or call for the customer service.
