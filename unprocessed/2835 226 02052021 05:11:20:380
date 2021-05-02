@@ -1,9 +1,0 @@
-user: What are the things required to visit an exhibition?
-system: It depends on what type of exhibition you are planning to visit! please specify
-user: I am planning to visit an art exhibition that is located at North oaks.
-system: Oh that is great! These are the things you may need to bring:
-Tickets to the exhibition, water bottle, exhibition map and cash for emergency.
-user: Is there any e-map available for the exhibition?
-system: Yes! You can find it here: https://www.mapmap.com/artsyexhibit
-user: Oh finally! 
-system: No problem! Just a text away!
