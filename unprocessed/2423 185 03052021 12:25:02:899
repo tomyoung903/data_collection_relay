@@ -1,0 +1,8 @@
+user: Can you send the reference number to my email?
+system: Yes. What is your email address?
+user: What time would the concourse be open?
+system: The concourse will be open from 7am to 10pm daily.
+user: How far is the train station from the restaurant?
+system: It will take approximately 20 minutes by walk and 10 minutes by car.
+user: Would I be able to bring pets into the train?
+system: No pets are allowed on board the trains.
