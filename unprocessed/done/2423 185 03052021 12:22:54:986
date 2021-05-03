@@ -1,0 +1,8 @@
+user: Can I know where I can collect my tickets?
+system: You can collect your tickets at the concourse of the train station.
+user: What time would the concourse be open?
+system: The concourse will be open from 7am to 10pm daily.
+user: How long does it take from my current location to the nearest train station?
+system: It will take approximately 20 minutes by walk and 10 minutes by car.
+user: Would I be able to bring pets into the train?
+system: No pets are allowed on board the trains.
