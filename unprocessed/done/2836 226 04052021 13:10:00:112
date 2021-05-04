@@ -1,0 +1,6 @@
+user: Can I give ratings to the place I went just now?
+system: sure! what is the rating you would like to give?
+user: I want to give 4 out of 5 stars
+system:  What feedback would you like to give?
+user: The food and service was great! However, the cleanliness could have been better.
+system: sent !
