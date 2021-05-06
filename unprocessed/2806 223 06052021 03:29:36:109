@@ -1,8 +1,0 @@
-user: I would like to make some changes to my restaurant booking would that be possible? 
-system: Yes, it is. Could I have the reference number of the booking?
-user: The booking reference is RQLJFIDQ. I would like to change it to 19:00 on Saturday for 6 people instead. My friend would be joining us too. 
-system: Okay sure. Is it a close friend? 
-user: Yes, and I was hoping to meet her before leaving. 
-system: Okay, I have made the changes to your booking. Your reference number would remain the same. I hope you have a great evening with your friends and family. 
-user: Thank you, I can't wait! 
-system: Welcome. 
